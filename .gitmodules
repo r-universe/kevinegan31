@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ARGOS"]
+	path = ARGOS
+	url = https://github.com/kevinegan31/argos-package
